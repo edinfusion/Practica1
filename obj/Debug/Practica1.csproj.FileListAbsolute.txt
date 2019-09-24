@@ -1,0 +1,10 @@
+C:\Users\edinf\Desktop\CLASES SEGUNDO SEMESTRE 2019\LFP\LAB\PRACTICA 1\Practica1\bin\Debug\Practica1.exe.config
+C:\Users\edinf\Desktop\CLASES SEGUNDO SEMESTRE 2019\LFP\LAB\PRACTICA 1\Practica1\bin\Debug\Practica1.exe
+C:\Users\edinf\Desktop\CLASES SEGUNDO SEMESTRE 2019\LFP\LAB\PRACTICA 1\Practica1\bin\Debug\Practica1.pdb
+C:\Users\edinf\Desktop\CLASES SEGUNDO SEMESTRE 2019\LFP\LAB\PRACTICA 1\Practica1\obj\Debug\Practica1.csprojAssemblyReference.cache
+C:\Users\edinf\Desktop\CLASES SEGUNDO SEMESTRE 2019\LFP\LAB\PRACTICA 1\Practica1\obj\Debug\Practica1.Form1.resources
+C:\Users\edinf\Desktop\CLASES SEGUNDO SEMESTRE 2019\LFP\LAB\PRACTICA 1\Practica1\obj\Debug\Practica1.Properties.Resources.resources
+C:\Users\edinf\Desktop\CLASES SEGUNDO SEMESTRE 2019\LFP\LAB\PRACTICA 1\Practica1\obj\Debug\Practica1.csproj.GenerateResource.cache
+C:\Users\edinf\Desktop\CLASES SEGUNDO SEMESTRE 2019\LFP\LAB\PRACTICA 1\Practica1\obj\Debug\Practica1.csproj.CoreCompileInputs.cache
+C:\Users\edinf\Desktop\CLASES SEGUNDO SEMESTRE 2019\LFP\LAB\PRACTICA 1\Practica1\obj\Debug\Practica1.exe
+C:\Users\edinf\Desktop\CLASES SEGUNDO SEMESTRE 2019\LFP\LAB\PRACTICA 1\Practica1\obj\Debug\Practica1.pdb
